@@ -2,7 +2,8 @@
 
 - [Components: smartdroid.de](https://www.smartdroid.de/nexus-5-detaillierte-auflistung-aller-verbauten-komponenten/)
 - [Components: deviceinfohw.ru](http://deviceinfohw.ru/devices/variants.php?model=Nexus%205&set_brand=google&set_vendor=LGE)
-- [masneyb: Personal trees related to the Nexus 5 upstreaming](https://github.com/masneyb/linux)
+- [masneyb: Nexus 5 tree](https://github.com/masneyb/linux)
+- [flto: MSM8974 tree](https://github.com/flto/linux/tree/msm8974)
 - [masneyb: nexus-5-upstream](https://masneyb.github.io/nexus-5-upstream/)
 - [masneyb: nexus5-upstream/TODO](https://masneyb.github.io/nexus-5-upstream/TODO.html)
 
