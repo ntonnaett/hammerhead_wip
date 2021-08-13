@@ -10,7 +10,8 @@
 ## WCD9320 (Audio Driver)
 - [PMOS Metaissue](https://gitlab.com/postmarketOS/linux-postmarketos/-/issues/3)
 - [PMOS MSM8974: Fp2: Initial audio (without WCD9320?)](https://gitlab.com/postmarketOS/pmaports/-/merge_requests/38?commit_id=702e43cbf5872599ba7235a09981fe42fc81bb6c)
-- [Google Downstream](https://android.googlesource.com/kernel/msm/+/android-msm-hammerhead-3.4-kk-fr2/sound/soc/codecs/wcd9320.c)
+- [Google downstream](https://android.googlesource.com/kernel/msm/+/android-msm-hammerhead-3.4-kk-fr2/sound/soc/codecs/wcd9320.c)
+- [LineageOS downstream wcd9320.c](https://review.lineageos.org/c/LineageOS/android_kernel_sony_msm8974/+/106522/2/sound/soc/codecs/wcd9320.c)
 - [Add routes from slimbus ports to IIR](http://visa.lab.asu.edu/gitlab/fstrace/android-kernel-msm-hammerhead-3.4-marshmallow-mr3/commit/6a8a7c82b54249a88df0c8ace310536d0cc05ea7)
 - [Don't enable unnecessary audio path](http://visa.lab.asu.edu/gitlab/fstrace/android-kernel-msm-hammerhead-3.4-marshmallow-mr3/commit/070620fa982b6a0e1f7a3ff397c5de37b934123b)
 ### WCD9320 Hacks
