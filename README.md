@@ -23,7 +23,7 @@
 - [Cocafe’s custom kernel for Xperia Z2](https://github.com/cocafe/xperia-z2_kernel_cocore-l)
   - [WCD9320 Taiko Audio Codec Control (hints for Cocafe’s kernel)](https://github.com/Grarak/KernelAdiutor/issues/225)
   - [Xda-developers (other hints for Cocafe’s audio codec)](https://forum.xda-developers.com/t/kernel-z1c-5-0-5-1-f2fs-advanced-kernel-v19-0-2017-03-25.3096060/page-2#post-62125592)
-### Examples for comparison
+### Other audio codecs for comparison
 - [Upstream support for WCD934x](https://lore.kernel.org/linux-devicetree/20191219103153.14875-1-srinivas.kandagatla@linaro.org/)
 - [WCD9340 on SDM845: Enable audio on SDM845](https://gitlab.com/sdm845-mainline/linux/-/commit/b0484a0f4f80367a87fa7c24ca045921e3140f34)
 - [WCD9335 Audio Codec Device Specifications](https://developer.qualcomm.com/download/sd820e/wcd9335-audio-codec-device-specification.pdf?referrer=node/35455)
