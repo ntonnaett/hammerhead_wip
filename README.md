@@ -17,6 +17,8 @@
 ### WCD9320 Hacks
 - [flto’s WCD9320 stuff](https://github.com/flto/linux/commit/0af04bc3a5abb66a18038131df88fdd216cee244)
 - [Swapnil133609’s WCD9320 stuff](https://github.com/Swapnil133609/Android-Kernel-Patches/blob/master/flar2/0055-sound-control-3.x-Initial-GPL-release-for-WCD9320-Au.patch)
+- [Cocafe’s custom kernel for Xperia Z2](https://github.com/cocafe/xperia-z2_kernel_cocore-l)
+  - [WCD9320 Taiko Audio Codec Control (hints for Cocafe’s kernel)](https://github.com/Grarak/KernelAdiutor/issues/225)
 ### Examples for comparing
 - [Upstream support for WCD934x](https://lore.kernel.org/linux-devicetree/20191219103153.14875-1-srinivas.kandagatla@linaro.org/)
 - [WCD9340 on SDM845: Enable audio on SDM845](https://gitlab.com/sdm845-mainline/linux/-/commit/b0484a0f4f80367a87fa7c24ca045921e3140f34)
