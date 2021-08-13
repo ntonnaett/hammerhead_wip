@@ -15,6 +15,8 @@
 - [Add routes from slimbus ports to IIR](http://visa.lab.asu.edu/gitlab/fstrace/android-kernel-msm-hammerhead-3.4-marshmallow-mr3/commit/6a8a7c82b54249a88df0c8ace310536d0cc05ea7)
 - [Don't enable unnecessary audio path](http://visa.lab.asu.edu/gitlab/fstrace/android-kernel-msm-hammerhead-3.4-marshmallow-mr3/commit/070620fa982b6a0e1f7a3ff397c5de37b934123b)
 - [CVE-2016-5858](https://nvd.nist.gov/vuln/detail/CVE-2016-5858)
+- [CVE-2020-3685](https://secalerts.co/cve/CVE-2020-3685)
+- [Vulnerabilities on WCD9320](https://secalerts.co/vulnerabilities/qualcomm/wcd9320)
 ### WCD9320 Hacks
 - [flto’s WCD9320 stuff](https://github.com/flto/linux/commit/0af04bc3a5abb66a18038131df88fdd216cee244)
 - [Swapnil133609’s WCD9320 stuff](https://github.com/Swapnil133609/Android-Kernel-Patches/blob/master/flar2/0055-sound-control-3.x-Initial-GPL-release-for-WCD9320-Au.patch)
