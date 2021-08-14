@@ -26,4 +26,5 @@
 ### Other audio codecs for comparison
 - [Upstream support for WCD934x](https://lore.kernel.org/linux-devicetree/20191219103153.14875-1-srinivas.kandagatla@linaro.org/)
 - [WCD9340 on SDM845: Enable audio on SDM845](https://gitlab.com/sdm845-mainline/linux/-/commit/b0484a0f4f80367a87fa7c24ca045921e3140f34)
-- [WCD9335 Audio Codec Device Specifications](https://developer.qualcomm.com/download/sd820e/wcd9335-audio-codec-device-specification.pdf?referrer=node/35455)
+- [WCD9335 Audio Codec Device Specifications](https://developer.qualcomm.com/download/sd820e/wcd9335-audio-codec-device-specification.pdf)
+- [WCD9311 Audio Codec Device Specifications](https://developer.qualcomm.com/download/sd600/wcd9311-audio-codec-device-specification.pdf)
