@@ -7,6 +7,7 @@
 ### Components
 - [Components: smartdroid.de](https://www.smartdroid.de/nexus-5-detaillierte-auflistung-aller-verbauten-komponenten/)
 - [Components: deviceinfohw.ru](http://deviceinfohw.ru/devices/variants.php?model=Nexus%205&set_brand=google&set_vendor=LGE)
+- [Hammerhead schematics](https://phonelumi.com/lg-nexus-5-d820-schematics-manual/)
 ## WCD9320 (Audio Driver)
 - [PMOS Metaissue](https://gitlab.com/postmarketOS/linux-postmarketos/-/issues/3)
 - [PMOS MSM8974: Fp2: Initial audio (without WCD9320?)](https://gitlab.com/postmarketOS/pmaports/-/merge_requests/38?commit_id=702e43cbf5872599ba7235a09981fe42fc81bb6c)
