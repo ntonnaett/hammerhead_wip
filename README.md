@@ -1,5 +1,6 @@
 # Hammerhead links
 ## General
+- [Devicetree Sprecification](https://github.com/devicetree-org/devicetree-specification/releases/tag/v0.3)
 - [masneyb’s Nexus 5 tree](https://github.com/masneyb/linux)
 - [flto’s MSM8974 tree](https://github.com/flto/linux/tree/msm8974)
 - [masneyb’s nexus-5-upstream page](https://masneyb.github.io/nexus-5-upstream/)
