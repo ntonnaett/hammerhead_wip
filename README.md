@@ -1,4 +1,5 @@
 # Hammerhead links
+
 ## General
 - [Devicetree Sprecification](https://github.com/devicetree-org/devicetree-specification/releases/tag/v0.3)
 - [masneyb’s Nexus 5 tree](https://github.com/masneyb/linux)
@@ -9,6 +10,7 @@
 - [Components: smartdroid.de](https://www.smartdroid.de/nexus-5-detaillierte-auflistung-aller-verbauten-komponenten/)
 - [Components: deviceinfohw.ru](http://deviceinfohw.ru/devices/variants.php?model=Nexus%205&set_brand=google&set_vendor=LGE)
 - [Hammerhead schematics](https://phonelumi.com/lg-nexus-5-d820-schematics-manual/)
+
 ## WCD9320 (Audio Driver)
 - [PMOS Metaissue](https://gitlab.com/postmarketOS/linux-postmarketos/-/issues/3)
 - [PMOS MSM8974: Fp2: Initial audio (without WCD9320?)](https://gitlab.com/postmarketOS/pmaports/-/merge_requests/38?commit_id=702e43cbf5872599ba7235a09981fe42fc81bb6c)
@@ -31,3 +33,6 @@
 - [WCD9340 on SDM845: Enable audio on SDM845](https://gitlab.com/sdm845-mainline/linux/-/commit/b0484a0f4f80367a87fa7c24ca045921e3140f34)
 - [WCD9335 Audio Codec Device Specifications](https://developer.qualcomm.com/download/sd820e/wcd9335-audio-codec-device-specification.pdf)
 - [WCD9311 Audio Codec Device Specifications](https://developer.qualcomm.com/download/sd600/wcd9311-audio-codec-device-specification.pdf)
+
+## Graphics / Adreno 330
+- [DSI Panel driver tutorial](https://gitlab.freedesktop.org/freedreno/freedreno/-/wikis/DSI-Panel-Driver-Porting)
